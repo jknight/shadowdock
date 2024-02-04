@@ -2,7 +2,7 @@
 
 WORK IN PROGRESS BY JEFF AND JAY FOR OUR SHADOWDARK GAMES
 
-This repo is just testing out what it'd take to build a playable verison of [Shadowdarklings](https://shadowdarklings.net/) - like Shadowdarklings meets [Foundary Shadowdark plugin](https://github.com/Muttley/foundryvtt-shadowdark), designed for players to collab and play together but no needing VTT, Owlbear etc -- just basic shareable character sheets, playable real time. 
+This repo is just testing out what it'd take to build a playable verison of [Shadowdarklings](https://shadowdarklings.net/) - like Shadowdarklings meets [Foundary Shadowdark plugin](https://github.com/Muttley/foundryvtt-shadowdark), designed for players to collab and play together but not needing FoundaryVTT, Owlbear etc -- just basic shareable character sheets, playable realtime. 
 
 What we want:
 
