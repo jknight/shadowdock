@@ -1,0 +1,255 @@
+{
+  "name": "Zitmub",
+  "stats": {
+    "STR": 13,
+    "DEX": 8,
+    "CON": 10,
+    "INT": 18,
+    "WIS": 10,
+    "CHA": 7
+  },
+  "rolledStats": {
+    "STR": 13,
+    "DEX": 8,
+    "CON": 10,
+    "INT": 16,
+    "WIS": 10,
+    "CHA": 7
+  },
+  "ancestry": "Goblin",
+  "class": "Wizard",
+  "level": 1,
+  "levels": [
+    {
+      "level": 1,
+      "talentRolledDesc": "+2 to Intelligence stat or +1 to wizard spellcasting checks",
+      "talentRolledName": "Plus2INTOrPlus1Casting",
+      "Rolled12TalentOrTwoStatPoints": "",
+      "Rolled12ChosenTalentDesc": "",
+      "Rolled12ChosenTalentName": "",
+      "HitPointRoll": 4,
+      "stoutHitPointRoll": 0
+    }
+  ],
+  "XP": 0,
+  "ambitionTalentLevel": {
+    "level": 1,
+    "talentRolledDesc": "",
+    "talentRolledName": "",
+    "Rolled12TalentOrTwoStatPoints": "",
+    "Rolled12ChosenTalentDesc": "",
+    "Rolled12ChosenTalentName": "",
+    "HitPointRoll": 0,
+    "stoutHitPointRoll": 0
+  },
+  "title": "Apprentice",
+  "alignment": "Lawful",
+  "background": "Skald",
+  "deity": "Saint Terragnis",
+  "maxHitPoints": 4,
+  "armorClass": 9,
+  "gearSlotsTotal": 13,
+  "gearSlotsUsed": 5,
+  "bonuses": [
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "ExtraLanguage: Wizard 1",
+      "bonusTo": "Languages",
+      "bonusName": "Thanian"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "ExtraLanguage: Wizard 2",
+      "bonusTo": "Languages",
+      "bonusName": "Elvish"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "ExtraLanguage: Wizard 3",
+      "bonusTo": "Languages",
+      "bonusName": "Primordial"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "ExtraLanguage: Wizard 4",
+      "bonusTo": "Languages",
+      "bonusName": "Celestial"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "Spell: Wizard, Tier 1, Spell 1",
+      "bonusTo": "Tier:1, Spell:1",
+      "bonusName": "Feather Fall"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "Spell: Wizard, Tier 1, Spell 2",
+      "bonusTo": "Tier:1, Spell:2",
+      "bonusName": "Magic Missile"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "Spell: Wizard, Tier 1, Spell 3",
+      "bonusTo": "Tier:1, Spell:3",
+      "bonusName": "Detect Magic"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Talent",
+      "gainedAtLevel": 1,
+      "name": "Plus2INTOrPlus1Casting",
+      "bonusTo": "",
+      "bonusName": "Plus2INTOrPlus1Casting"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Wizard",
+      "sourceCategory": "Talent",
+      "gainedAtLevel": 1,
+      "name": "PlusTwoIntOrPlusOneWizCasting",
+      "bonusName": "StatBonus",
+      "bonusTo": "INT:+2"
+    }
+  ],
+  "goldRolled": 40,
+  "gold": 31,
+  "silver": 0,
+  "copper": 0,
+  "gear": [
+    {
+      "instanceId": "ls7hwz5h",
+      "gearId": "w14",
+      "name": "Staff",
+      "type": "weapon",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "ls7hwz5i",
+      "gearId": "s2",
+      "name": "Backpack",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 0,
+      "cost": 2,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "ls7hwz5j",
+      "gearId": "s11",
+      "name": "Lantern",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "ls7hwz5k",
+      "gearId": "s13",
+      "name": "Oil, flask",
+      "type": "sundry",
+      "quantity": 2,
+      "totalUnits": 2,
+      "slots": 2,
+      "cost": 10,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "ls7hwz5m",
+      "gearId": "s8",
+      "name": "Flint and steel",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "sp"
+    }
+  ],
+  "treasures": [],
+  "magicItems": [],
+  "ledger": [
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Staff",
+      "notes": ""
+    },
+    {
+      "goldChange": -2,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Backpack",
+      "notes": ""
+    },
+    {
+      "goldChange": -5,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Lantern",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Oil, flask",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Oil, flask",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Flint and steel",
+      "notes": ""
+    }
+  ],
+  "spellsKnown": "Detect Magic, Feather Fall, Magic Missile",
+  "languages": "Celestial, Common, Elvish, Goblin, Primordial, Thanian",
+  "creationMethod": "Random 1",
+  "coreRulesOnly": true,
+  "activeSources": [
+    "SD",
+    "SG",
+    "CS1",
+    "CS2",
+    "CS3"
+  ],
+  "edits": []
+}
